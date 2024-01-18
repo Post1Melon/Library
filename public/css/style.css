@@ -1031,7 +1031,6 @@ footer .widget ul {
 .widget_gallery li {
     display: inline-block;
     width: 33.33%;
-    float: left;
     transition: all 0.5s;
     -webkit-transition: all 0.5s;
     -moz-transition: all 0.5s;
